@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_search"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/search_button_height"
+        android:layout_margin="@dimen/button_margin"
+        android:background="@color/search_button_backgroundcolor"
+        android:onClick="openSearchPage"
+        android:text="@string/search_button_text"
+        android:textAllCaps="false"
+        android:textColor="@color/search_button_text_color" />
+
+    <TextView
+        android:id="@+id/musician"
+        style="@style/home_page_button_style"
+        android:background="@color/musician_backgroundcolor"
+        android:text="@string/musician" />
+
+    <TextView
+        android:id="@+id/record"
+        style="@style/home_page_button_style"
+        android:background="@color/record_backgroundcolor"
+        android:text="@string/record" />
+
+    <TextView
+        android:id="@+id/playlist"
+        style="@style/home_page_button_style"
+        android:background="@color/playlist_backgroundcolor"
+        android:text="@string/playlist" />
+
+    <TextView
+        android:id="@+id/textview_info_homePage"
+        style="@style/textview_info"
+        android:text="@string/info_homePage" />
+
+
+</LinearLayout>

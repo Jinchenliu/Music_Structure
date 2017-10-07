@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_button_height">42dp</dimen>
+    <dimen name="button_margin">20dp</dimen>
+    <dimen name="home_page_button_height">60dp</dimen>
+</resources>

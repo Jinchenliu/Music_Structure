@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="search_button_text_color">#9E9E9E</color>
+    <color name="search_button_backgroundcolor">#E0E0E0</color>
+    <color name="musician_backgroundcolor">#F06292</color>
+    <color name="record_backgroundcolor">#FFCC80</color>
+    <color name="playlist_backgroundcolor">#AB47BC</color>
+    <color name="textview_info_backgroundcolor">#EEEEEE</color>
+    <color name="homepage_backgroundcolor">#3F51B5</color>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Music_Structure</string>
+    <string name="home_page_name">Music World</string>
+    <string name="search_button_text">Search</string>
+    <string name="musician">Musician</string>
+    <string name="record">Record</string>
+    <string name="playlist">Playlist</string>
+    <string name="search">Search</string>
+    <string name="info_homePage">welcome to music world,this is home page</string>
+    <string name="info_musician">Here you can find all the musicians that you like</string>
+    <string name="info_record">Here you can find all the records that you like</string>
+    <string name="info_playlist">Here you can find all the playlists that you like</string>
+    <string name="info_search">search everything about music</string>
+    <string name="homepage">Home page</string>
+</resources>
